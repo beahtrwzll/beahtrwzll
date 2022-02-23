@@ -9,10 +9,10 @@
 </div>
 
 <br>
-<kbd>
 <div style="display: inline_block;" align="center">
-  <img src="https://github.com/guilhermeledo/guilhermeledo/blob/main/images/python-icon.png" width="50"/>
+  <img src="https://github.com/guilhermeledo/guilhermeledo/blob/main/images/python-icon.png" width="50" />
+  <img src="https://github.com/guilhermeledo/guilhermeledo/blob/main/images/html-icon.png" width="50" />
+  <img src="https://github.com/guilhermeledo/guilhermeledo/blob/main/images/css-icon.png" width="50" />
 </div>
-</kbd>
 
 ---
