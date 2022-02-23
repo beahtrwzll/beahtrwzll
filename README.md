@@ -8,8 +8,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block">
-
+<br>
+<kbd>
+<div style="display: inline_block;" align="center">
+  <img src="https://github.com/guilhermeledo/guilhermeledo/blob/main/images/python-icon.png" width="50"/>
 </div>
+</kbd>
 
 ---
