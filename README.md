@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <h2>1001000 1100101 1101100 1101100 1101111 100000 1010111 1101111 1110010 1101100 1100100</h2>
+</div>
 
-<!--
-**guilhermeledo/guilhermeledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/guilhermeledo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
