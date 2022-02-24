@@ -1,28 +1,62 @@
+<!-- Title & Line -->
 <div align="center">
-  <h2>1001000 1100101 1101100 1101100 1101111 100000 1010111 1101111 1110010 1101100 1100100</h2>
+  <h3>1001000 1100101 1101100 1101100 1101111 100000 1010111 1101111 1110010 1101100 1100100</h2>
+  <hr>
 </div>
 
+<!-- GitHub Statistics -->
 <div align="center">
   <a href="https://github.com/guilhermeledo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=guilhermeledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-pic" width="50" style="border-radius:50px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<!-- Space -->
+###
+
+<!-- Knowledge Icons -->
+<div style="display: inline_block" align="center">
+  <h6>MY KNOWLEDGES</h6>
+  <img alt="DEVICON-Python" width="35"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="DEVICON-Linux" width="35"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
----
+<!-- Space & Line -->
+##
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<!-- Links -->
+<div>
+  <h5>Social Medias</h5>
+  <a href="">
+    <img alt="LINKEDIN-Badge"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="">
+    <img alt="DISCORD-Badge"
+         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <h5>Code Communities</h5>
+  <a href="">
+    <img alt="CODEWARS-Badge"
+         src="https://img.shields.io/badge/codewars-000000?style=for-the-badge&logo=codewars&logoColor=red&color=1c1c1c" />
+  </a>
+ 	<a href="">
+    <img alt="STACKOVERFLOW-Badge"
+         src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</div>
+
+<!-- Space -->
+###
+
+<!-- Snake Grid -->
+<div align="center">
+
+  ![Snake Animation](https://github.com/guilhermeledo/guilhermeledo/blob/output/github-contribution-grid-snake.svg)
+
 </div>
