@@ -49,6 +49,10 @@
     <img alt="STACKOVERFLOW-Badge"
          src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
+  <a href="">
+    <img alt="HACKTHEBOX-Badge"
+         src="https://img.shields.io/badge/hack%20the%20box-000000?style=for-the-badge&logo=hackthebox&color=black" />
+  </a>
 </div>
 
 <!-- Space -->
