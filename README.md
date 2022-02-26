@@ -1,6 +1,5 @@
 <!-- Snake Grid -->
 <div align="center">
-
-  ![Snake Animation](https://github.com/guilhL/guilhermeledo/blob/output/github-contribution-grid-snake.svg)
-
+  <h3 style="text-decoration: none">https://github.com/guilhL</h3>
+  <hr>
 </div>
