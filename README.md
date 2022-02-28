@@ -25,3 +25,16 @@
 <div align="center">
 <img width="140" src="https://media1.tenor.com/images/80102550479835807fdd8ab3cbab2565/tenor.gif" />
 </div>
+
+---
+
+<div align="center">
+  <kbd>
+    <br>
+    <b>CONTACT ME:</b><br><br>
+    ㅤguilhermeledo.msg@gmail.comㅤ<br><br>
+    ㅤ+55 (11) 9 8210-9351ㅤ<br><br>
+    ㅤlinkedin.com/in/guilhermeledo/ㅤ<br><br>
+    
+  </kbd>
+</div>
