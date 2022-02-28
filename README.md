@@ -10,11 +10,12 @@
 <div align="center"><br><br>
   💻 <b>Python Junior Developer</b><br>
   🛡️ <b>Cybersecurity Student in FIAP</b><br>
-  🌐 <b>Tech Entusiast</b><br><br><br><br><br>
+  🌐 <b>Tech Entusiast</b><br><br><br><br>
 </div>
 
----
+##
 
+<br>
 <div>
   <a href="https://github.com/guilhermeledo">
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=8&theme=merko"/>
