@@ -13,8 +13,6 @@
   🌐 <b>Tech Entusiast</b><br><br><br>
 </div>
 
-##
-
 <div align="center">
   <h4>🗃️ Look at my <i>repositories</i> <a href="https://github.com/guilhermeledo?tab=repositories">➜</a></h4>
   <h4>📔 Look at my <i>study</i> projects <a href="https://github.com/orgs/guilhermeledoStudyWorkspace/repositories">➜</a></h4>
