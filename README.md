@@ -16,6 +16,18 @@
        src="https://img.shields.io/badge/Korean-000?&color=f4a1cc&label=Wanna%20Learn&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
 </div>
 
+<!--
+<br>
+
+<div align="center">
+  <img
+       src="https://img.shields.io/badge/Python-ffa100?style=for-the-badge&logo=python&logoColor=3364f7">
+  ᠎ 
+  <img
+       src="https://img.shields.io/badge/C%20Language-1d36f4?style=for-the-badge&logo=c&logoColor=black">
+</div>
+-->
+
 <br>
 
 <div>
