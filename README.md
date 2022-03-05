@@ -1,5 +1,19 @@
-### I hope my projects will be useful to you | #OpenSource
+<h3 align="center">I hope my projects will be useful to you | #OpenSource</h3>
+
 ---
+
+<div align="center">
+  <img
+       src="https://img.shields.io/badge/Portuguese-000?&color=lightgreen&label=Native&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
+  ㅤ
+  <img
+       src="https://img.shields.io/badge/English-000?&color=90e7f4&label=Intermediate&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
+  ㅤ
+  <img
+       src="https://img.shields.io/badge/Spanish-000?&color=cadb6b&label=Basic&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
+</div>
+
+<br>
 
 <div>
   <a href="https://github.com/guilhermeledo">
@@ -11,13 +25,6 @@
   💻 <b>Python Junior Developer</b><br>
   🛡️ <b>Cybersecurity Student at FIAP</b><br>
   🌐 <b>Tech Entusiast</b><br><br><br>
-</div>
-
-<br>
-
-<div align="center">
-  <h4>🗃️ Look at my <i>repositories</i> <a href="https://github.com/guilhermeledo?tab=repositories">➜</a></h4>
-  <h4>📔 Look at my <i>study</i> projects <a href="https://github.com/orgs/guilhermeledoStudyWorkspace/repositories">➜</a></h4>
 </div>
 
 <!--
