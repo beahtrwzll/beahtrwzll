@@ -37,8 +37,8 @@
 </div>
 
 <div align="center"><br><br>
-  💻 <b>Python Junior Developer</b><br>
-  🛡️ <b>Cybersecurity Student at FIAP</b><br>
+  💻 <b>Python Developer</b><br>
+  🛡️ <b>Cybersecurity Student</b><br>
   🌐 <b>Tech Entusiast</b><br><br><br>
 </div>
 
