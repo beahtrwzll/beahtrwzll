@@ -1,4 +1,4 @@
-<h3 align="center">I hope my projects will be useful to you | #OpenSource</h3>
+<h3 align="center">I hope <a href="https://github.com/gui-lhe-rme?tab=repositories">my projects</a> will be useful to you | #OpenSource</h3>
 
 ---
 
@@ -43,12 +43,24 @@
 </div>
 
 <!--
+<br>
+<br>
+<br>
+
+<div align="right">
+
+  [![email: ](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)]()
+
+</div>
+-->
+
+<!--
 ##
 
 <br>
 <div>
-  <a href="https://github.com/guilhermeledo">
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledo&layout=compact&langs_count=8&theme=merko"/>
+  <a href="https://github.com/gui-lhe-rme">
+  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-lhe-rme&layout=compact&langs_count=8&theme=merko"/>
   </a>
 </div>
 
