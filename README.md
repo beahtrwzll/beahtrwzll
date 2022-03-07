@@ -16,19 +16,25 @@
        src="https://img.shields.io/badge/Korean-000?&color=f4a1cc&label=Wanna%20Learn&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
 </div>
 
-<!--
 <br>
 
+<!--
 <div align="center">
   <img
-       src="https://img.shields.io/badge/Python-ffa100?style=for-the-badge&logo=python&logoColor=3364f7">
+       src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   ᠎ 
   <img
-       src="https://img.shields.io/badge/C%20Language-1d36f4?style=for-the-badge&logo=c&logoColor=black">
+       src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">᠎
+  ᠎ 
+  <img
+       src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  ᠎ 
+  <img
+       src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=black">
 </div>
--->
 
 <br>
+-->
 
 <div>
   <a href="https://github.com/gui-lhe-rme">
