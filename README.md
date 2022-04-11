@@ -2,6 +2,8 @@
 
 ---
 
+<br>
+
 <div align="center">
   <img
        src="https://img.shields.io/badge/Portuguese-000?&color=lightgreen&label=Native&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
@@ -16,7 +18,7 @@
        src="https://img.shields.io/badge/Korean-000?&color=f4a1cc&label=Wanna%20Learn&labelColor=141314&style=for-the-badge&logo=pt-br&logoColor=000">
 </div>
 
-<br>
+<br><br>
 
 <div>
   <a href="https://github.com/beahtrwzll">
