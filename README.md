@@ -1,4 +1,4 @@
-<h3 align="center">I hope <a href="https://github.com/orgs/studyworkspace/repositories">⮮</a> my projects <a href="https://github.com/beahtrwzll?tab=repositories">⮭</a> will be useful to you | #OpenSource</h3>
+<h3 align="center">I hope my projects will be useful to you | #OpenSource</h3>
 
 ---
 
