@@ -31,3 +31,18 @@
   🛡️ <b>Cybersecurity Student</b><br>
   🌐 <b>Tech Entusiast</b><br><br><br>
 </div>
+
+<br>
+<br>
+
+Professional Projects: https://github.com/beahtrwzll?tab=repositories
+My Free Workspace: https://github.com/free-workspace
+
+<div align="center">
+  
+  ##
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gwlherme)](https://linkedin.com/in/gwlherme)
+  [![email: guilherme.root@pm.me](https://img.shields.io/badge/PM.ME-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:guilherme.root@pm.me)
+  
+</div>
+
